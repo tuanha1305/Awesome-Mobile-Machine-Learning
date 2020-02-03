@@ -226,6 +226,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Classifying Movie Reviews With Natural Language Framework](https://towardsdatascience.com/classifying-movie-reviews-with-natural-language-framework-12dfe2fc3308)
 - [Language Identification, Translation, and Smart Reply in iOS with Firebase ML Kit](https://heartbeat.fritz.ai/language-identification-translation-and-smart-reply-in-ios-with-firebase-ml-kit-b6a2ba25f144?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Exploring Word Embeddings and Text Catalogs with Apple’s Natural Language Framework in iOS](https://heartbeat.fritz.ai/exploring-word-embeddings-and-text-catalogs-with-apples-natural-language-framework-in-ios-b4d9164f5a3b??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Processing Tweets Using Natural Language and Create ML on iOS](https://heartbeat.fritz.ai/processing-tweets-on-ios-using-natural-language-and-create-ml-8a4390868ddb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Speech / Audio
 
