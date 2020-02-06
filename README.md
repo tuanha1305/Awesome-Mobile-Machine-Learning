@@ -206,6 +206,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Computer Vision in iOS: Determine the Best Facial Expression in Live Photos](https://heartbeat.fritz.ai/computer-vision-in-ios-determine-the-best-facial-expression-in-live-photos-452a2eaf6512?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Compute Image Similarity Using Computer Vision in iOS](https://heartbeat.fritz.ai/compute-image-similarity-using-computer-vision-in-ios-75b4dcdd095f??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
 
 ### Natural Language Processing
 
