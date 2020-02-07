@@ -112,6 +112,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Bender](https://github.com/xmartlabs/Bender): Bender is an abstraction layer over MetalPerformanceShaders useful for working with neural networks.
 - [StyleArt](https://github.com/ileafsolutions/StyleArt): The Style Art library processes images using Core ML with a set of pre trained machine learning models and converts them to different art styles.
 - [LocoKit](https://github.com/sobri909/LocoKit): Location, motion, and activity recording framework for iOS; includes the ability to classify device activity by mode of transport.
+- [awesome-tflite](https://github.com/margaretmz/awesome-tflite): A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
 
 ## Android <a name="androidcode"></a>
 
@@ -120,6 +121,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample): Android TensorFlow MachineLearning Example (Building TensorFlow for Android).
 - [onyx](https://github.com/hanuor/onyx): An android library that uses technologies like artificial Intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app.
 - [android-malware-analysis](https://github.com/mwleeds/android-malware-analysis): This project seeks to apply machine learning algorithms to Android malware classification.
+- [awesome-tflite](https://github.com/margaretmz/awesome-tflite): A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
 
 ## Browser <a name="browsercode"></a>
 
