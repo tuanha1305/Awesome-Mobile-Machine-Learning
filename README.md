@@ -140,6 +140,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 ## Fritz AI Community Resources <a name="fritzcode"></a>
 
 - [Mobile ML GitHub Repositories](https://www.fritz.ai/resources/mobile-ml-github-repositories.html?utm_source=github&utm_campaign=awesome_mobile_machine_learning): List of repos with machine learning models ready for mobile, organized by feature type.
+- [Image Recognition Guide](https://www.fritz.ai/image-recognition/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how image recognition works.
+- [Object Detection Guide](https://www.fritz.ai/image-recognition/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how object detection works.
 - [Image Segmentation Guide](https://www.fritz.ai/image-segmentation/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how image segmentation works.
 - [Pose Estimation Guide](https://www.fritz.ai/pose-estimation/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how pose estimation works.
 - [Style Transfer Guide](https://www.fritz.ai/style-transfer/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how style transfer works.
@@ -155,6 +157,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ### Computer Vision
 
+#### Image Recognition/Classification
+
 - [Intro to machine learning on iOS: Using Core ML to recognize handwritten digits](https://heartbeat.fritz.ai/intro-to-machine-learning-on-ios-building-app-recognize-handwritten-digits-coreml-6c2cdd04b00b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building Not Hotdog with Turi Create and Core ML—in an afternoon](https://heartbeat.fritz.ai/building-not-hotdog-with-turi-create-and-core-ml-in-an-afternoon-a87fd1967d10?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Core ML SImplified with Lumina](https://heartbeat.fritz.ai/coreml-simplified-with-lumina-745e61035f30?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
@@ -164,72 +168,105 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Using Core ML and Vision in iOS for Age Detection](https://heartbeat.fritz.ai/tutorial-on-using-core-ml-in-ios-with-vision-for-age-detection-f6e25c1d3e1f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using Core ML and Custom Vision to Build a Real-Time Hand Sign Detector in iOS](https://heartbeat.fritz.ai/building-a-real-time-hand-sign-detector-in-ios-using-core-ml-and-custom-vision-e76aad7961ac?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using Core ML and ARKit to Build a Gesture-Based Interface iOS App](https://heartbeat.fritz.ai/building-a-gesture-based-interface-ios-app-with-core-ml-and-arkit-910b5c94da80?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Real-Time Style Transfer for iOS](https://heartbeat.fritz.ai/real-time-style-transfer-for-ios-transform-your-photos-and-videos-into-masterpieces-f04111fcd2ff?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Making a “Pokedex” for iOS Using Create ML and Core ML with Vision](https://heartbeat.fritz.ai/making-a-pok%C3%A9dex-for-ios-using-create-ml-and-core-ml-with-vision-5908685afb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Moving AI from the Cloud to the Edge with Crowd Count and Apple’s Core ML](https://heartbeat.fritz.ai/moving-ai-from-the-cloud-to-the-edge-with-crowd-count-and-apples-core-ml-c5b7d91d4dc8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Build your own Portrait Mode on iOS using machine learning in < 30 minutes](https://heartbeat.fritz.ai/building-an-image-segmentation-app-in-ios-3377eb4a3e7c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Introduction to Core ML: Building a Simple Image Recognition App](https://www.appcoda.com/coreml-introduction/)
 - [Building a real-time object recognition iOS app that detects sushi](https://heartbeat.fritz.ai/building-a-real-time-object-recognition-ios-app-that-detects-sushi-c4a3a2c32298?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Detecting Pneumonia in an iOS App with Create ML](https://heartbeat.fritz.ai/detecting-pneumonia-in-an-ios-app-with-create-ml-5cff2a60a3d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Training a Core ML Model with Turi Create to Classify Dog Breeds](https://heartbeat.fritz.ai/training-a-core-ml-model-with-turi-create-to-classify-dog-breeds-d10009bd30b6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Pose Estimation on iOS](https://heartbeat.fritz.ai/pose-estimation-on-ios-with-fritz-60c8e5f7d195?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Hand Detection with Core ML and ARKit](https://heartbeat.fritz.ai/hand-detection-with-core-ml-and-arkit-f4c8da98e88e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Creating a Prisma-like App with Core ML, Style Transfer, and Turi Create](https://www.appcoda.com/coreml-turi-create/)
-- [Integrating Google ML Kit in iOS for Face Detection, Text Recognition, and Many More](https://www.appcoda.com/mlkit/)
-- [Using Vision Framework for Text Detection in iOS 11](https://www.appcoda.com/vision-framework-introduction/)
-- [Introduction to Core ML: Building a Simple Image Recognition App](https://www.appcoda.com/coreml-introduction/)
-- [MobileNetV2 + SSDLite with Core ML (Object Detection)](https://machinethink.net/blog/mobilenet-ssdlite-coreml/)
-- [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f)
+- [Recreate Dominos Points for Pies app on iOS with Fritz Image Labeling](https://heartbeat.fritz.ai/recreate-dominos-points-for-pies-app-on-ios-with-fritz-image-labeling-2ed23398e1c2?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
+- [Powering an iOS app with ML: How to get started using Create ML and Core ML](https://www.welcometothejungle.co/fr/articles/ios-machine-learning)
 - [Machine Learning in iOS: Azure Custom Vision and Core ML](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee)
 - [Machine Learning in iOS: Turi Create and Core ML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
 - [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
-- [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
-- [How to Get a Core ML Model to Produce Images as Output](https://cutecoder.org/programming/core-ml-image-output/)
-- [Comparing iOS Text Recognition SDKS Using Delta](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Recreate Dominos Points for Pies app on iOS with Fritz Image Labeling](https://heartbeat.fritz.ai/recreate-dominos-points-for-pies-app-on-ios-with-fritz-image-labeling-2ed23398e1c2?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
-- [Powering an iOS app with ML: How to get started using Create ML and Core ML](https://www.welcometothejungle.co/fr/articles/ios-machine-learning)
-- [Live Face Tracking on iOS using Vision Framework](https://medium.com/@anuragajwani/live-face-tracking-on-ios-using-vision-framework-adf8a1799233)
-- [Text recognition on iOS 13 with Vision, SwiftUI and Combine](https://martinmitrevski.com/2019/06/16/text-recognition-on-ios-13-with-vision-swiftui-and-combine/)
-- [Unity AR Foundation and CoreML: Hand detection and tracking](https://medium.com/@chen_jd/unity-ar-foundation-and-coreml-hand-detection-and-tracking-b74c592206c5)
-- [Photo Stacking in iOS with Vision and Metal](https://www.raywenderlich.com/3733151-photo-stacking-in-ios-with-vision-and-metal)
-- [Human pose estimation on images for iOS](https://habr.com/en/post/458000/)
-- [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Evaluate Construction Site Safety on iOS using Machine Learning](https://heartbeat.fritz.ai/evaluate-construction-site-safety-on-ios-using-machine-learning-b9a731b7e2d3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
 - [Logo Recognition iOS Application Using Machine Learning and Flask API](https://heartbeat.fritz.ai/logo-recognition-ios-application-using-machine-learning-and-flask-api-aec4eff3be11?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Style Transfer iOS Application Using Convolutional Neural Networks](https://heartbeat.fritz.ai/style-transfer-on-ios-using-convolutional-neural-networks-616fd748ece4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [PyTorch Mobile: Image Classification on iOS](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-ios-c822a36ecfa9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a Barcode Scanner in Swift on iOS](https://heartbeat.fritz.ai/building-a-barcode-scanner-in-swift-on-ios-9ad550e8f78b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Incorporating machine learning into iOS apps](https://heartbeat.fritz.ai/incorporating-machine-learning-into-ios-apps-a5eb8bccd915?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Adding custom object detection to an iOS app with Turi Create and Fritz AI](https://heartbeat.fritz.ai/adding-custom-object-detection-to-an-ios-app-with-turi-create-and-fritz-ai-89569aaa82b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a multi-class image classifier on iOS](https://heartbeat.fritz.ai/building-a-multi-class-image-classifier-on-ios-2e5df50a1655?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
+
+#### Object Detection
+
+- [Hand Detection with Core ML and ARKit](https://heartbeat.fritz.ai/hand-detection-with-core-ml-and-arkit-f4c8da98e88e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [MobileNetV2 + SSDLite with Core ML (Object Detection)](https://machinethink.net/blog/mobilenet-ssdlite-coreml/)
+- [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
+- [Live Face Tracking on iOS using Vision Framework](https://medium.com/@anuragajwani/live-face-tracking-on-ios-using-vision-framework-adf8a1799233)
+- [Unity AR Foundation and CoreML: Hand detection and tracking](https://medium.com/@chen_jd/unity-ar-foundation-and-coreml-hand-detection-and-tracking-b74c592206c5)
+- [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Adding custom object detection to an iOS app with Turi Create and Fritz AI](https://heartbeat.fritz.ai/adding-custom-object-detection-to-an-ios-app-with-turi-create-and-fritz-ai-89569aaa82b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Style Transfer
+
+- [Real-Time Style Transfer for iOS](https://heartbeat.fritz.ai/real-time-style-transfer-for-ios-transform-your-photos-and-videos-into-masterpieces-f04111fcd2ff?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating a Prisma-like App with Core ML, Style Transfer, and Turi Create](https://www.appcoda.com/coreml-turi-create/)
+- [Style Transfer iOS Application Using Convolutional Neural Networks](https://heartbeat.fritz.ai/style-transfer-on-ios-using-convolutional-neural-networks-616fd748ece4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Image Segmentation
+
+- [Build your own Portrait Mode on iOS using machine learning in < 30 minutes](https://heartbeat.fritz.ai/building-an-image-segmentation-app-in-ios-3377eb4a3e7c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
+- [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Pose Estimation
+
+- [Pose Estimation on iOS](https://heartbeat.fritz.ai/pose-estimation-on-ios-with-fritz-60c8e5f7d195?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Human pose estimation on images for iOS](https://habr.com/en/post/458000/)
+
+#### Text Recognition
+
+- [Integrating Google ML Kit in iOS for Face Detection, Text Recognition, and Many More](https://www.appcoda.com/mlkit/)
+- [Using Vision Framework for Text Detection in iOS 11](https://www.appcoda.com/vision-framework-introduction/)
+- [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f)
+- [Comparing iOS Text Recognition SDKS Using Delta](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Text recognition on iOS 13 with Vision, SwiftUI and Combine](https://martinmitrevski.com/2019/06/16/text-recognition-on-ios-13-with-vision-swiftui-and-combine/)
+- [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Other
+
+- [Photo Stacking in iOS with Vision and Metal](https://www.raywenderlich.com/3733151-photo-stacking-in-ios-with-vision-and-metal)
 - [Computer Vision in iOS: Determine the Best Facial Expression in Live Photos](https://heartbeat.fritz.ai/computer-vision-in-ios-determine-the-best-facial-expression-in-live-photos-452a2eaf6512?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Compute Image Similarity Using Computer Vision in iOS](https://heartbeat.fritz.ai/compute-image-similarity-using-computer-vision-in-ios-75b4dcdd095f??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
+
 
 ### Natural Language Processing
 
+#### Text Classification
+
 - [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Core ML with GloVe Word Embedding and a Recursive Neural Network](https://heartbeat.fritz.ai/coreml-with-glove-word-embedding-and-recursive-neural-network-part-2-d72c1a66b028?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Natural Language on iOS 12: Customizing tag schemes and named entity recognition](https://heartbeat.fritz.ai/natural-language-in-ios-12-customizing-tag-schemes-and-named-entity-recognition-caf2da388a9f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Training a Core ML Model for Sentiment Analysis](https://heartbeat.fritz.ai/training-a-sentiment-analysis-core-ml-model-28823b21322c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Using Create ML on iOS to auto-complete forms](https://heartbeat.fritz.ai/saved-you-a-click-auto-completing-forms-on-ios-with-createml-a50db9995932?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Text Recognition and Translation on iOS Using ML Kit and Google Translate](https://heartbeat.fritz.ai/text-recognition-and-translation-on-ios-using-ml-kit-and-google-translate-5b24440906db?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
 - [Train a Text Classification Model with Create ML](https://code.tutsplus.com/articles/train-a-text-classification-model-with-create-ml--cms-32030)
+- [Text Classification on iOS Using Create ML](https://heartbeat.fritz.ai/text-classification-on-ios-using-create-ml-f71d7191404a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Classifying Movie Reviews With Natural Language Framework](https://towardsdatascience.com/classifying-movie-reviews-with-natural-language-framework-12dfe2fc3308)
+- [Easy Topic Classifier on iOS with Apple’s Natural Language Framework](https://heartbeat.fritz.ai/easy-topic-classifier-on-ios-with-apples-natural-language-framework-f9825143ecdb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using Create ML on iOS to auto-complete forms](https://heartbeat.fritz.ai/saved-you-a-click-auto-completing-forms-on-ios-with-createml-a50db9995932?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Sentiment Analysis
+
+- [Training a Core ML Model for Sentiment Analysis](https://heartbeat.fritz.ai/training-a-sentiment-analysis-core-ml-model-28823b21322c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/)
+- [Using Core ML and Natural Language for Sentiment Analysis on iOS](https://heartbeat.fritz.ai/using-core-ml-and-natural-language-for-sentiment-analysis-on-ios-d9469ce6c0ef?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Processing Tweets Using Natural Language and Create ML on iOS](https://heartbeat.fritz.ai/processing-tweets-on-ios-using-natural-language-and-create-ml-8a4390868ddb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/)
 - [Introduction to natural language processing in Swift](https://rickwierenga.com/blog/apple/NaturalLanguage.html)
-- [Using Core ML and Natural Language for Sentiment Analysis on iOS](https://heartbeat.fritz.ai/using-core-ml-and-natural-language-for-sentiment-analysis-on-ios-d9469ce6c0ef?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Text Classification on iOS Using Create ML](https://heartbeat.fritz.ai/text-classification-on-ios-using-create-ml-f71d7191404a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Easy Topic Classifier on iOS with Apple’s Natural Language Framework](https://heartbeat.fritz.ai/easy-topic-classifier-on-ios-with-apples-natural-language-framework-f9825143ecdb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Classifying Movie Reviews With Natural Language Framework](https://towardsdatascience.com/classifying-movie-reviews-with-natural-language-framework-12dfe2fc3308)
+
+#### Translation
+
+- [Text Recognition and Translation on iOS Using ML Kit and Google Translate](https://heartbeat.fritz.ai/text-recognition-and-translation-on-ios-using-ml-kit-and-google-translate-5b24440906db?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Language Identification, Translation, and Smart Reply in iOS with Firebase ML Kit](https://heartbeat.fritz.ai/language-identification-translation-and-smart-reply-in-ios-with-firebase-ml-kit-b6a2ba25f144?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+### NLP Tools and Techniques
+
+- [Natural Language on iOS 12: Customizing tag schemes and named entity recognition](https://heartbeat.fritz.ai/natural-language-in-ios-12-customizing-tag-schemes-and-named-entity-recognition-caf2da388a9f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
+- [Core ML with GloVe Word Embedding and a Recursive Neural Network](https://heartbeat.fritz.ai/coreml-with-glove-word-embedding-and-recursive-neural-network-part-2-d72c1a66b028?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Exploring Word Embeddings and Text Catalogs with Apple’s Natural Language Framework in iOS](https://heartbeat.fritz.ai/exploring-word-embeddings-and-text-catalogs-with-apples-natural-language-framework-in-ios-b4d9164f5a3b??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Processing Tweets Using Natural Language and Create ML on iOS](https://heartbeat.fritz.ai/processing-tweets-on-ios-using-natural-language-and-create-ml-8a4390868ddb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 ### Speech / Audio
 
@@ -276,6 +313,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How to convert images to MLMultiArray](https://machinethink.net/blog/coreml-image-mlmultiarray/)
 - [Swift loves TensorFlow and Core ML](https://heartbeat.fritz.ai/swift-loves-tensorflow-and-core-ml-8adb52838931?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Upsampling in Core ML](https://machinethink.net/blog/coreml-upsampling/)
+- [How to Get a Core ML Model to Produce Images as Output](https://cutecoder.org/programming/core-ml-image-output/)
 
 ### Other
 
@@ -286,53 +324,68 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ### Computer Vision
 
-- [Intro to Machine Learning on Android Part 1—How to convert a custom model to TensorFlow Lite](https://heartbeat.fritz.ai/intro-to-machine-learning-on-android-how-to-convert-a-custom-model-to-tensorflow-lite-e07d2d9d50e3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+#### Image Recognition/Classification
+
 - [Introduction to Machine Learning on Android Part 2: Building an app to recognize handwritten digits](https://heartbeat.fritz.ai/introduction-to-machine-learning-on-android-part-2-building-an-app-to-recognize-handwritten-d58ebc01950?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Real-Time Face Detection on Android with ML Kit](https://heartbeat.fritz.ai/building-a-real-time-face-detector-in-android-with-ml-kit-f930eb7b36d9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Creating an Android app with Snapchat-style filters in 7 steps using Firebase’s ML Kit](https://heartbeat.fritz.ai/creating-an-android-app-with-snapchat-style-filters-in-7-steps-using-firebases-ml-kit-e79946e99688?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using TensorFlow Lite and ML Kit to Build a “Pokedex” in Android](https://heartbeat.fritz.ai/building-pok%C3%A9dex-in-android-using-tensorflow-lite-and-firebase-cc780848395?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Visual Recognition in Android Using IBM Watson](https://heartbeat.fritz.ai/visual-recognition-in-android-using-ibm-watson-9b1fea83e8d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Real-Time Style Transfer for Android](https://heartbeat.fritz.ai/real-time-style-transfer-for-android-6a9d238dfdb5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Identifying and Counting Items in Real-Time with Fritz Object Detection for Android](https://heartbeat.fritz.ai/counting-items-in-real-time-on-android-with-fritz-object-detection-c450d6957448?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Pose Estimation on Android](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Image Segmentation for Android—Smart Background Replacement](https://heartbeat.fritz.ai/image-segmentation-for-android-smart-background-replacement-with-fritz-a09d8b0592a4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a Custom Machine Learning Model on Android with TensorFlow Lite](https://medium.com/over-engineering/building-a-custom-machine-learning-model-on-android-with-tensorflow-lite-26447e53abf2)
-- [Exploring Firebase ML Kit on Android: Face Detection (Part 2)](https://medium.com/google-developer-experts/exploring-firebase-mlkit-on-android-face-detection-part-two-de7e307c52e0)
 - [Exploring Firebase ML Kit on Android: Barcode Scanning (Part 3)](https://medium.com/google-developer-experts/exploring-firebase-mlkit-on-android-barcode-scanning-part-three-cc6f5921a108)
-- [Exploring Firebase ML Kit on Android: Landmark Detection (Part 4)](https://medium.com/google-developer-experts/exploring-firebase-mlkit-on-android-landmark-detection-part-four-5e86b8deac3a)
-- [Detecting Pikachu on Android using TensorFlow Object Detection](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd)
 - [Using TensorFlow on Android—step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 - [Mobile intelligence—TensorFlow Lite Classification on Android](https://proandroiddev.com/mobile-intelligence-tensorflow-lite-classification-on-android-c081278d9961?source=search_post)
-- [Creating a Google Lens clone using Firebase ML Kit](https://medium.com/coding-blocks/google-lens-firebase-54d34d7e1505)
-- [Building a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 - [How to apply Machine Learning to Android using Fritz](https://www.survivingwithandroid.com/2019/02/how-to-apply-machine-learning-to-android.html)
-- [Text Recognition with ML Kit](https://www.raywenderlich.com/5804-text-recognition-with-ml-kit)
 - [Image Recognition with ML Kit](https://www.raywenderlich.com/6064-image-recognition-with-ml-kit)
+- [Creating a Google Lens clone using Firebase ML Kit](https://medium.com/coding-blocks/google-lens-firebase-54d34d7e1505)
 - [Applying TensorFlow in Android in 4 steps](https://medium.com/@elye.project/applying-tensorflow-in-android-in-4-steps-to-recognize-superhero-f224597eb055)
-- [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Embrace your new look with Hair Segmentation by Fritz—Now available for Android developers](https://heartbeat.fritz.ai/embrace-your-new-look-with-hair-segmentation-by-fritz-now-available-for-android-developers-f20f5b4e9ae1)
 - [Using TensorFlow Lite and ML Kit to build custom machine learning models for Android](https://heartbeat.fritz.ai/using-tensorflow-lite-and-ml-kit-to-build-custom-machine-learning-models-for-android-a7e272d3c61e)
-- [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
 - [Inspecting TensorFlow Lite image classification model](https://thinkmobile.dev/inspecting-tensorflow-lite-image-classification-model/#more-46)
-- [Building a real-time object detection app on Android using Firebase ML Kit](https://heartbeat.fritz.ai/building-a-real-time-object-detection-app-on-android-using-firebase-ml-kit-c72c99daf46f)
-- [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
-- [Automate testing of TensorFlow Lite model implementation](https://thinkmobile.dev/automate-testing-of-tensorflow-lite-model-implementation/)
-- [Build TensorFlow Lite model with Firebase AutoML Vision Edge](https://thinkmobile.dev/build-tensorflow-lite-model-with-firebase-automl-vision-edge/)
-- [Creating a Pet Sticker App on Android with Fritz Pet Segmentation](https://android.jlelse.eu/creating-a-pet-sticker-app-on-android-with-fritz-pet-segmentation-72d158874773)
-- [Running Artificial Neural Networks in Android using OpenCV](https://heartbeat.fritz.ai/running-artificial-neural-networks-in-android-using-opencv-3c5640778578?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- Plant Disease Classification with TensorFlow Lite on Android - [Part 1](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-2-0-268fe7f72c2a) and [Part 2](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-lite-on-android-part-2-c2d47371cea3)
-- [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
-- [Image Classification on Android using OpenCV](https://heartbeat.fritz.ai/image-classification-on-android-using-opencv-38a01fce53e9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
-- [End-to-End tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
-- [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [CameraX: ‘The’ Machine Learning Camera Library for Android](https://heartbeat.fritz.ai/camerax-the-machine-learning-camera-library-for-android-10e2f234e62d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Classification on Android with TensorFlow Lite and CameraX](https://heartbeat.fritz.ai/image-classification-on-android-with-tensorflow-lite-and-camerax-4f72e8fdca79?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Labeling on Android in Kotlin using Fritz AI and CameraX](https://heartbeat.fritz.ai/image-labeling-on-android-in-kotlin-using-fritz-ai-and-camerax-1466089b2e34??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Style Transfer on Android in Kotlin using Fritz AI and CameraX](https://heartbeat.fritz.ai/style-transfer-on-android-in-kotlin-using-fritz-ai-and-camerax-dbf7859daa30?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- Plant Disease Classification with TensorFlow Lite on Android - [Part 1](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-2-0-268fe7f72c2a) and [Part 2](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-lite-on-android-part-2-c2d47371cea3)
+- [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
+- [Image Classification on Android using OpenCV](https://heartbeat.fritz.ai/image-classification-on-android-using-opencv-38a01fce53e9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Build TensorFlow Lite model with Firebase AutoML Vision Edge](https://thinkmobile.dev/build-tensorflow-lite-model-with-firebase-automl-vision-edge/)
+
+#### Object Detection
+
+- [Real-Time Face Detection on Android with ML Kit](https://heartbeat.fritz.ai/building-a-real-time-face-detector-in-android-with-ml-kit-f930eb7b36d9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating an Android app with Snapchat-style filters in 7 steps using Firebase’s ML Kit](https://heartbeat.fritz.ai/creating-an-android-app-with-snapchat-style-filters-in-7-steps-using-firebases-ml-kit-e79946e99688?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Identifying and Counting Items in Real-Time with Fritz Object Detection for Android](https://heartbeat.fritz.ai/counting-items-in-real-time-on-android-with-fritz-object-detection-c450d6957448?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Exploring Firebase ML Kit on Android: Landmark Detection (Part 4)](https://medium.com/google-developer-experts/exploring-firebase-mlkit-on-android-landmark-detection-part-four-5e86b8deac3a)
+- [Detecting Pikachu on Android using TensorFlow Object Detection](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd)
+- [Building a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
+- [Building a real-time object detection app on Android using Firebase ML Kit](https://heartbeat.fritz.ai/building-a-real-time-object-detection-app-on-android-using-firebase-ml-kit-c72c99daf46f)
 - [Blink detection on Android using Firebase ML Kit’s Face Detection API](https://heartbeat.fritz.ai/blink-detection-on-android-using-firebase-ml-kits-face-detection-api-6d09823db535??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
+- [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
+
+#### Style Transfer
+
+- [Real-Time Style Transfer for Android](https://heartbeat.fritz.ai/real-time-style-transfer-for-android-6a9d238dfdb5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Style Transfer on Android in Kotlin using Fritz AI and CameraX](https://heartbeat.fritz.ai/style-transfer-on-android-in-kotlin-using-fritz-ai-and-camerax-dbf7859daa30?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Image Segmentation
+- [Embrace your new look with Hair Segmentation by Fritz—Now available for Android developers](https://heartbeat.fritz.ai/embrace-your-new-look-with-hair-segmentation-by-fritz-now-available-for-android-developers-f20f5b4e9ae1)
+- [Creating a Pet Sticker App on Android with Fritz Pet Segmentation](https://android.jlelse.eu/creating-a-pet-sticker-app-on-android-with-fritz-pet-segmentation-72d158874773)
+
+#### Pose Estimation
+
+- [Pose Estimation on Android](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Detecting cropped faces in images using the Fritz Pose Estimation API](https://heartbeat.fritz.ai/detecting-cropped-faces-in-images-using-the-fritz-pose-estimation-api-26082418e049?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+#### Text Recognition
+
+- [Text Recognition with ML Kit](https://www.raywenderlich.com/5804-text-recognition-with-ml-kit)
+- [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
+- [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
+
+#### Other
+- [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [CameraX: ‘The’ Machine Learning Camera Library for Android](https://heartbeat.fritz.ai/camerax-the-machine-learning-camera-library-for-android-10e2f234e62d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Automate testing of TensorFlow Lite model implementation](https://thinkmobile.dev/automate-testing-of-tensorflow-lite-model-implementation/)
+- [Running Artificial Neural Networks in Android using OpenCV](https://heartbeat.fritz.ai/running-artificial-neural-networks-in-android-using-opencv-3c5640778578?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
@@ -343,6 +396,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ### Model Conversion/Deployment/Management
 
+- [Intro to Machine Learning on Android Part 1—How to convert a custom model to TensorFlow Lite](https://heartbeat.fritz.ai/intro-to-machine-learning-on-android-how-to-convert-a-custom-model-to-tensorflow-lite-e07d2d9d50e3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deploying PyTorch and Kera Models to Android with TensorFlow Mobile](https://heartbeat.fritz.ai/deploying-pytorch-and-keras-models-to-android-with-tensorflow-mobile-a16a1fb83f2?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Compiling a TensorFlow Lite Build with Custom Operations](https://heartbeat.fritz.ai/compiling-a-tensorflow-lite-build-with-custom-operations-cf6330ee30e2?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Benchmarking TensorFlow Mobile on Android devices in production](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
