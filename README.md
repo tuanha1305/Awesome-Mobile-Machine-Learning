@@ -480,6 +480,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [AutoML Vision Edge: Loading and Running a TensorFlow.js Model (Part 1)](https://heartbeat.fritz.ai/automl-vision-edge-loading-and-running-a-tensorflow-js-model-part-1-eed6c0c7bcb3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [AutoML Vision Edge: Loading and Running a TensorFlow.js Model (Part 2)](https://heartbeat.fritz.ai/automl-vision-edge-loading-and-running-a-tensorflow-js-model-part-2-9b4d62a7d5cc?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Hacking Google Coral Edge TPU: motion blur and Lanczos resize](https://towardsdatascience.com/hacking-google-coral-edge-tpu-motion-blur-and-lanczos-resize-9b60ebfaa552)
+- [PhotoBooth Lite on Raspberry Pi with TensorFlow Lite](https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
