@@ -265,6 +265,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Core ML with GloVe Word Embedding and a Recursive Neural Network](https://heartbeat.fritz.ai/coreml-with-glove-word-embedding-and-recursive-neural-network-part-2-d72c1a66b028?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Exploring Word Embeddings and Text Catalogs with Apple’s Natural Language Framework in iOS](https://heartbeat.fritz.ai/exploring-word-embeddings-and-text-catalogs-with-apples-natural-language-framework-in-ios-b4d9164f5a3b??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Matching Natural Language Text for Predefined Data Patterns on Apple's Devices](https://www.andyibanez.com/posts/matching-nl-nsdatadetector/)
 
 ### Speech / Audio
 
@@ -273,6 +274,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [iOS On-Device Speech Recognition](https://medium.com/better-programming/ios-speech-recognition-on-device-e9a54a4468b5)
 - [Sound Classification on iOS Using Core ML 3 and Create ML](https://heartbeat.fritz.ai/sound-classification-using-core-ml-3-and-create-ml-fc73ca20aff5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Speech recognition and speech synthesis on iOS with Swift](https://heartbeat.fritz.ai/speech-recognition-and-speech-synthesis-on-ios-with-swift-d1a63e469cd9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Recognizing Speech Locally on an iOS Device Using the Speech Framework](https://www.andyibanez.com/posts/speech-recognition-sfspeechrecognizer/)
 
 ### Model Conversion/Deployment/Management
 
