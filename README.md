@@ -188,7 +188,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Building a multi-class image classifier on iOS](https://heartbeat.fritz.ai/building-a-multi-class-image-classifier-on-ios-2e5df50a1655?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
 
-#### Object Detection
+#### Object/Face Detection
 
 - [Hand Detection with Core ML and ARKit](https://heartbeat.fritz.ai/hand-detection-with-core-ml-and-arkit-f4c8da98e88e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [MobileNetV2 + SSDLite with Core ML (Object Detection)](https://machinethink.net/blog/mobilenet-ssdlite-coreml/)
@@ -198,6 +198,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Adding custom object detection to an iOS app with Turi Create and Fritz AI](https://heartbeat.fritz.ai/adding-custom-object-detection-to-an-ios-app-with-turi-create-and-fritz-ai-89569aaa82b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Build a Touchless Swipe iOS App Using ML Kit’s Face Detection API](https://heartbeat.fritz.ai/build-a-touchless-swipe-ios-app-using-ml-kits-face-detection-api-da40d1e2cb86?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Style Transfer
 
