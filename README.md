@@ -199,6 +199,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Adding custom object detection to an iOS app with Turi Create and Fritz AI](https://heartbeat.fritz.ai/adding-custom-object-detection-to-an-ios-app-with-turi-create-and-fritz-ai-89569aaa82b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Build a Touchless Swipe iOS App Using ML Kit’s Face Detection API](https://heartbeat.fritz.ai/build-a-touchless-swipe-ios-app-using-ml-kits-face-detection-api-da40d1e2cb86?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Scanning Credit Cards with Computer Vision on iOS](https://heartbeat.fritz.ai/scanning-credit-cards-with-computer-vision-on-ios-c3f4d8912de4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Style Transfer
 
@@ -226,6 +227,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Comparing iOS Text Recognition SDKS Using Delta](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Text recognition on iOS 13 with Vision, SwiftUI and Combine](https://martinmitrevski.com/2019/06/16/text-recognition-on-ios-13-with-vision-swiftui-and-combine/)
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Scanning Credit Cards with Computer Vision on iOS](https://heartbeat.fritz.ai/scanning-credit-cards-with-computer-vision-on-ios-c3f4d8912de4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Other
 
