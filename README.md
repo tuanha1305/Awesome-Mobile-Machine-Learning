@@ -255,6 +255,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Processing Tweets Using Natural Language and Create ML on iOS](https://heartbeat.fritz.ai/processing-tweets-on-ios-using-natural-language-and-create-ml-8a4390868ddb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/)
 - [Introduction to natural language processing in Swift](https://rickwierenga.com/blog/apple/NaturalLanguage.html)
+- [Sentiment Analysis on iOS Using Swift, Natural Language, and Combine: Hacker News Top Stories](https://heartbeat.fritz.ai/sentiment-analysis-on-ios-using-swift-natural-language-and-combine-hacker-news-top-stories-d1b8d8f4f798?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Translation
 
