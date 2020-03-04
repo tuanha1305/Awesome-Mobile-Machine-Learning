@@ -352,6 +352,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Build TensorFlow Lite model with Firebase AutoML Vision Edge](https://thinkmobile.dev/build-tensorflow-lite-model-with-firebase-automl-vision-edge/)
+- [Image Recognition for Android with a Custom TensorFlow Lite Model](https://heartbeat.fritz.ai/image-recognition-for-android-with-a-custom-tensorflow-lite-model-6418186ecc0e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object Detection
 
