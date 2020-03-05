@@ -488,6 +488,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Hacking Google Coral Edge TPU: motion blur and Lanczos resize](https://towardsdatascience.com/hacking-google-coral-edge-tpu-motion-blur-and-lanczos-resize-9b60ebfaa552)
 - [PhotoBooth Lite on Raspberry Pi with TensorFlow Lite](https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html)
 - [AutoML Vision Edge: Deploying and Running TensorFlow Models using Docker Containers](https://heartbeat.fritz.ai/automl-vision-edge-deploying-and-running-tensorflow-models-using-docker-containers-18336f78c4f7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Machine Learning at the Edge — μML](https://heartbeat.fritz.ai/machine-learning-at-the-edge-%CE%BCml-2802f1af92de?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
