@@ -354,6 +354,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Build TensorFlow Lite model with Firebase AutoML Vision Edge](https://thinkmobile.dev/build-tensorflow-lite-model-with-firebase-automl-vision-edge/)
 - [Image Recognition for Android with a Custom TensorFlow Lite Model](https://heartbeat.fritz.ai/image-recognition-for-android-with-a-custom-tensorflow-lite-model-6418186ecc0e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Working with TensorFlow Lite in Flutter](https://itnext.io/working-with-tensorflow-lite-in-flutter-f00d733a09c3)
 
 #### Object Detection
 
@@ -490,6 +491,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [PhotoBooth Lite on Raspberry Pi with TensorFlow Lite](https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html)
 - [AutoML Vision Edge: Deploying and Running TensorFlow Models using Docker Containers](https://heartbeat.fritz.ai/automl-vision-edge-deploying-and-running-tensorflow-models-using-docker-containers-18336f78c4f7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Machine Learning at the Edge — μML](https://heartbeat.fritz.ai/machine-learning-at-the-edge-%CE%BCml-2802f1af92de?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
