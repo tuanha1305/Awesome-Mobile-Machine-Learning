@@ -492,6 +492,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [AutoML Vision Edge: Deploying and Running TensorFlow Models using Docker Containers](https://heartbeat.fritz.ai/automl-vision-edge-deploying-and-running-tensorflow-models-using-docker-containers-18336f78c4f7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Machine Learning at the Edge — μML](https://heartbeat.fritz.ai/machine-learning-at-the-edge-%CE%BCml-2802f1af92de?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
+- [AutoML Vision Edge: Comparing Model Formats](https://heartbeat.fritz.ai/automl-vision-edge-comparing-model-formats-c3096e25a600?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
