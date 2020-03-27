@@ -58,6 +58,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [The 5 Algorithms for Efficient Deep Learning Inference on Small Devices](https://heartbeat.fritz.ai/the-5-algorithms-for-efficient-deep-learning-inference-on-small-devices-bcc2d18aa806?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [PyTorch Mobile: Exploring Facebook’s new mobile machine learning solution](https://heartbeat.fritz.ai/pytorch-mobile-exploring-facebooks-new-mobile-machine-learning-solution-96c99efbfd58?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [AI in the Browser](https://codeburst.io/ai-in-the-browser-939d8ab387a2)
+- [Federated Learning: An Introduction](https://heartbeat.fritz.ai/federated-learning-an-introduction-a0bedc8a584c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
@@ -272,6 +273,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Exploring Word Embeddings and Text Catalogs with Apple’s Natural Language Framework in iOS](https://heartbeat.fritz.ai/exploring-word-embeddings-and-text-catalogs-with-apples-natural-language-framework-in-ios-b4d9164f5a3b??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Matching Natural Language Text for Predefined Data Patterns on Apple's Devices](https://www.andyibanez.com/posts/matching-nl-nsdatadetector/)
+- [On-Device Video Subtitle Generation in SwiftUI](https://heartbeat.fritz.ai/on-device-video-subtitle-generation-on-ios-with-swiftui-and-ml-kit-6ed28dd2734c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Speech / Audio
 
@@ -281,6 +283,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Sound Classification on iOS Using Core ML 3 and Create ML](https://heartbeat.fritz.ai/sound-classification-using-core-ml-3-and-create-ml-fc73ca20aff5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Speech recognition and speech synthesis on iOS with Swift](https://heartbeat.fritz.ai/speech-recognition-and-speech-synthesis-on-ios-with-swift-d1a63e469cd9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Recognizing Speech Locally on an iOS Device Using the Speech Framework](https://www.andyibanez.com/posts/speech-recognition-sfspeechrecognizer/)
+- [Powering Accessibility on iOS with SwiftUI and Machine Learning](https://heartbeat.fritz.ai/powering-accessibility-on-ios-with-swiftui-and-machine-learning-292e2e71c40d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Model Conversion/Deployment/Management
 
@@ -320,6 +323,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Swift loves TensorFlow and Core ML](https://heartbeat.fritz.ai/swift-loves-tensorflow-and-core-ml-8adb52838931?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Upsampling in Core ML](https://machinethink.net/blog/coreml-upsampling/)
 - [How to Get a Core ML Model to Produce Images as Output](https://cutecoder.org/programming/core-ml-image-output/)
+- [Core ML On-Device Training, with Transfer Learning from Swift for TensorFlow Models](https://heartbeat.fritz.ai/core-ml-on-device-training-with-transfer-learning-from-swift-for-tensorflow-models-1264b444e18d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Other
 
@@ -452,6 +456,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Create AR experiences with the Fritz Unity SDK — Bird Perch Tutorial with Pose Estimation](https://heartbeat.fritz.ai/create-ar-experiences-with-the-fritz-unity-sdk-bird-perch-tutorial-with-pose-estimation-aff5b85c633b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Classification on React Native with TensorFlow.js and MobileNet](https://heartbeat.fritz.ai/image-classification-on-react-native-with-tensorflow-js-and-mobilenet-48a39185717c)
 - [Training a TensorFlow Lite model for mobile using AutoML Vision Edge](https://heartbeat.fritz.ai/training-a-tensorflow-lite-model-for-mobile-using-automl-vision-edge-1eb61e00be47??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [GPU-Accelerated Mobile Multi-view Style Transfer](https://heartbeat.fritz.ai/gpu-accelerated-mobile-multi-view-style-transfer-ee98911ccfbe?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
