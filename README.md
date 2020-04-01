@@ -528,6 +528,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Machine Learning with Swift](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift)
 - [Building Mobile Applications with TensorFlow](https://get.oreilly.com/ind_building-mobile-applications-with-tensorflow.html)
 - [Practical Artificial Intelligence with Swift](http://shop.oreilly.com/product/0636920214946.do)
+- [The Mobile Machine Learning Lifecycle](https://www.fritz.ai/ebooks/mobile-ml-lifecycle/?utm_campaign=lifecycle-ebook&utm_source=github)
 
 ### Android <a name="androidvideos"></a>
 
