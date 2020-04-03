@@ -392,6 +392,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Text Recognition with ML Kit](https://www.raywenderlich.com/5804-text-recognition-with-ml-kit)
 - [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
 - [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
+- [Card Scanner on Android Using Firebase’s ML Kit and CameraX](https://heartbeat.fritz.ai/card-scanner-using-firebase-ml-kit-and-camerax-468075f02768?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Other
 - [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
@@ -405,7 +406,6 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How to Code Natural Language Processing on Android with IBM Watson](https://code.tutsplus.com/tutorials/natural-language-processing-on-android-with-ibm-watson--cms-29589)
 - [Machine Learning in Action: Building a Universal Translator App for Android with Kotlin](https://medium.com/mindorks/machine-learning-in-action-building-a-universal-translator-app-for-android-with-kotlin-ff9d21ae818)
 - [Creating an offline translation Android app using Firebase ML Kit](https://heartbeat.fritz.ai/creating-an-offline-translation-android-app-using-firebase-ml-kit-d7d0fc5d8813?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Card Scanner on Android Using Firebase’s ML Kit and CameraX](https://heartbeat.fritz.ai/card-scanner-using-firebase-ml-kit-and-camerax-468075f02768?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Model Conversion/Deployment/Management
 
