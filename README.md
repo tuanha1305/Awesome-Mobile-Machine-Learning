@@ -461,7 +461,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Training a TensorFlow Lite model for mobile using AutoML Vision Edge](https://heartbeat.fritz.ai/training-a-tensorflow-lite-model-for-mobile-using-automl-vision-edge-1eb61e00be47??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [GPU-Accelerated Mobile Multi-view Style Transfer](https://heartbeat.fritz.ai/gpu-accelerated-mobile-multi-view-style-transfer-ee98911ccfbe?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Android Image Classification with TensorFlow Lite & Azure Custom Vision Service](https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/)
-- [Text Recognition in Flutter Using Firebase’s ML Kit](Text Recognition in Flutter Using Firebase’s ML Kit)
+- [Text Recognition in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/text-recognition-in-flutter-using-firebases-ml-kit-8bc457921f56?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
