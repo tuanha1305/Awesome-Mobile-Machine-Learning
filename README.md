@@ -399,6 +399,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [CameraX: ‘The’ Machine Learning Camera Library for Android](https://heartbeat.fritz.ai/camerax-the-machine-learning-camera-library-for-android-10e2f234e62d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Automate testing of TensorFlow Lite model implementation](https://thinkmobile.dev/automate-testing-of-tensorflow-lite-model-implementation/)
 - [Running Artificial Neural Networks in Android using OpenCV](https://heartbeat.fritz.ai/running-artificial-neural-networks-in-android-using-opencv-3c5640778578?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [On-Device Activity Recognition](https://aqibsaeed.github.io/on-device-activity-recognition)
 
 ### Natural Language Processing
 
@@ -406,6 +407,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How to Code Natural Language Processing on Android with IBM Watson](https://code.tutsplus.com/tutorials/natural-language-processing-on-android-with-ibm-watson--cms-29589)
 - [Machine Learning in Action: Building a Universal Translator App for Android with Kotlin](https://medium.com/mindorks/machine-learning-in-action-building-a-universal-translator-app-for-android-with-kotlin-ff9d21ae818)
 - [Creating an offline translation Android app using Firebase ML Kit](https://heartbeat.fritz.ai/creating-an-offline-translation-android-app-using-firebase-ml-kit-d7d0fc5d8813?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Enhancing Word Suggestions for Auto-completing Text in Android](https://heartbeat.fritz.ai/enhancing-word-suggestions-for-auto-completing-text-in-android-5ef40a8dfdc6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Model Conversion/Deployment/Management
 
@@ -459,6 +461,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Training a TensorFlow Lite model for mobile using AutoML Vision Edge](https://heartbeat.fritz.ai/training-a-tensorflow-lite-model-for-mobile-using-automl-vision-edge-1eb61e00be47??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [GPU-Accelerated Mobile Multi-view Style Transfer](https://heartbeat.fritz.ai/gpu-accelerated-mobile-multi-view-style-transfer-ee98911ccfbe?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Android Image Classification with TensorFlow Lite & Azure Custom Vision Service](https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/)
+- [Text Recognition in Flutter Using Firebase’s ML Kit](Text Recognition in Flutter Using Firebase’s ML Kit)
 
 ### Edge/Browser
 
@@ -500,6 +503,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Machine Learning at the Edge — μML](https://heartbeat.fritz.ai/machine-learning-at-the-edge-%CE%BCml-2802f1af92de?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
 - [AutoML Vision Edge: Comparing Model Formats](https://heartbeat.fritz.ai/automl-vision-edge-comparing-model-formats-c3096e25a600?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using Google Cloud AutoML Edge Image Classification Models in Python](https://heartbeat.fritz.ai/using-google-cloud-automl-edge-image-classification-models-in-python-92f2885c767?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
