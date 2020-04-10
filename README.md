@@ -236,6 +236,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Photo Stacking in iOS with Vision and Metal](https://www.raywenderlich.com/3733151-photo-stacking-in-ios-with-vision-and-metal)
 - [Computer Vision in iOS: Determine the Best Facial Expression in Live Photos](https://heartbeat.fritz.ai/computer-vision-in-ios-determine-the-best-facial-expression-in-live-photos-452a2eaf6512?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Compute Image Similarity Using Computer Vision in iOS](https://heartbeat.fritz.ai/compute-image-similarity-using-computer-vision-in-ios-75b4dcdd095f??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Introduction to XGBoost with an Implementation in an iOS Application](https://heartbeat.fritz.ai/introduction-to-xgboost-with-an-implementation-in-an-ios-application-cdfaa8f9930b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 
 ### Natural Language Processing
@@ -359,6 +360,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Build TensorFlow Lite model with Firebase AutoML Vision Edge](https://thinkmobile.dev/build-tensorflow-lite-model-with-firebase-automl-vision-edge/)
 - [Image Recognition for Android with a Custom TensorFlow Lite Model](https://heartbeat.fritz.ai/image-recognition-for-android-with-a-custom-tensorflow-lite-model-6418186ecc0e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Working with TensorFlow Lite in Flutter](https://itnext.io/working-with-tensorflow-lite-in-flutter-f00d733a09c3)
+- [TensorFlow Lite Model Maker: Build an Image Classifier for Android](https://heartbeat.fritz.ai/tensorflow-lite-model-maker-build-an-image-classifier-for-android-cf5893f713a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object Detection
 
@@ -504,6 +506,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
 - [AutoML Vision Edge: Comparing Model Formats](https://heartbeat.fritz.ai/automl-vision-edge-comparing-model-formats-c3096e25a600?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using Google Cloud AutoML Edge Image Classification Models in Python](https://heartbeat.fritz.ai/using-google-cloud-automl-edge-image-classification-models-in-python-92f2885c767?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using Google Cloud AutoML Edge Object Detection Models in Python](https://heartbeat.fritz.ai/using-google-cloud-automl-edge-object-detection-models-in-python-edae622adce1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
