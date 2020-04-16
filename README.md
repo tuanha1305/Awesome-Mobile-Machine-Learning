@@ -508,6 +508,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Using Google Cloud AutoML Edge Image Classification Models in Python](https://heartbeat.fritz.ai/using-google-cloud-automl-edge-image-classification-models-in-python-92f2885c767?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using Google Cloud AutoML Edge Object Detection Models in Python](https://heartbeat.fritz.ai/using-google-cloud-automl-edge-object-detection-models-in-python-edae622adce1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Running TensorFlow Lite Image Classification Models in Python](https://heartbeat.fritz.ai/running-tensorflow-lite-image-classification-models-in-python-92ef44b4cd47?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Running TensorFlow Lite Object Detection Models in Python](https://heartbeat.fritz.ai/running-tensorflow-lite-object-detection-models-in-python-8a73b77e13f8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
