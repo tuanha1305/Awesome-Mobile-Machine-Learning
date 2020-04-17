@@ -202,6 +202,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Build a Touchless Swipe iOS App Using ML Kit’s Face Detection API](https://heartbeat.fritz.ai/build-a-touchless-swipe-ios-app-using-ml-kits-face-detection-api-da40d1e2cb86?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Scanning Credit Cards with Computer Vision on iOS](https://heartbeat.fritz.ai/scanning-credit-cards-with-computer-vision-on-ios-c3f4d8912de4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Face Recognition and Detection on iOS Using Native Swift Code, Core ML, and ARKit](https://heartbeat.fritz.ai/face-recognition-and-detection-on-ios-using-native-swift-code-core-ml-and-arkit-feed10c468da?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using TensorFlow.js in a Native iOS App to Perform Object Detection](https://heartbeat.fritz.ai/using-tensorflow-js-in-a-native-ios-app-to-perform-object-detection-8577a3a9cdfe?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Style Transfer
 
