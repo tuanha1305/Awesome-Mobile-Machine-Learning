@@ -396,6 +396,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
 - [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
 - [Card Scanner on Android Using Firebase’s ML Kit and CameraX](https://heartbeat.fritz.ai/card-scanner-using-firebase-ml-kit-and-camerax-468075f02768?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Recognize Text in Images on Android with Firebase’s ML Kit](https://heartbeat.fritz.ai/recognize-text-in-images-on-android-with-firebases-ml-kit-a6bfe59dff66?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Other
 - [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
@@ -466,6 +467,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Android Image Classification with TensorFlow Lite & Azure Custom Vision Service](https://devblogs.microsoft.com/xamarin/image-classification-xamarin-android/)
 - [Text Recognition in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/text-recognition-in-flutter-using-firebases-ml-kit-8bc457921f56?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Real-Time 3D Object Detection on Mobile Devices with MediaPipe](https://heartbeat.fritz.ai/real-time-3d-object-detection-on-mobile-devices-with-mediapipe-52d5958349a0?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Labeling in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/image-labeling-in-flutter-using-firebases-ml-kit-458ad1ecde7f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
