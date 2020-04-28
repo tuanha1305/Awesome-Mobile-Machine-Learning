@@ -468,6 +468,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Text Recognition in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/text-recognition-in-flutter-using-firebases-ml-kit-8bc457921f56?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Real-Time 3D Object Detection on Mobile Devices with MediaPipe](https://heartbeat.fritz.ai/real-time-3d-object-detection-on-mobile-devices-with-mediapipe-52d5958349a0?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Labeling in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/image-labeling-in-flutter-using-firebases-ml-kit-458ad1ecde7f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Face Detection in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/face-detection-in-flutter-using-firebases-ml-kit-57a7a9078c3f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
