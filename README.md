@@ -96,6 +96,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ## iOS <a name="ioscode"></a>
 
+- [fritz-examples](https://github.com/fritzlabs/fritz-examples): A collection of experiences utilizing machine learning models from [Fritz AI](https://fritz.ai?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [swift](https://github.com/tensorflow/swift): Swift for TensorFlow Project Home Page.
 - [swift-models](https://github.com/tensorflow/swift-models): Models and examples built with Swift for TensorFlow.
 - [swift-apis](https://github.com/tensorflow/swift-apis): Swift for TensorFlow Deep Learning Library.
@@ -117,6 +118,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ## Android <a name="androidcode"></a>
 
+- [fritz-examples](https://github.com/fritzlabs/fritz-examples): A collection of experiences utilizing machine learning models from [Fritz AI](https://fritz.ai?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
 - [awesome-java](https://github.com/akullpp/awesome-java): A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample): Android TensorFlow MachineLearning Example (Building TensorFlow for Android).
@@ -538,13 +540,13 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 #### E-Books
 
+- [The Mobile Machine Learning Lifecycle](https://www.fritz.ai/ebooks/mobile-ml-lifecycle/?utm_campaign=lifecycle-ebook&utm_source=github)
 - [Core ML Survival Guide](https://leanpub.com/coreml-survival-guide/)
 - [Machine Learning by Tutorials](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
 - [Machine Learning with Core ML: An iOS developer’s guide to implementing machine learning in mobile apps](https://www.amazon.com/Machine-Learning-Core-developers-implementing/dp/1788838297)
 - [Machine Learning with Swift](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift)
 - [Building Mobile Applications with TensorFlow](https://get.oreilly.com/ind_building-mobile-applications-with-tensorflow.html)
 - [Practical Artificial Intelligence with Swift](http://shop.oreilly.com/product/0636920214946.do)
-- [The Mobile Machine Learning Lifecycle](https://www.fritz.ai/ebooks/mobile-ml-lifecycle/?utm_campaign=lifecycle-ebook&utm_source=github)
 
 ### Android <a name="androidvideos"></a>
 
