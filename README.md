@@ -474,6 +474,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Image Labeling in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/image-labeling-in-flutter-using-firebases-ml-kit-458ad1ecde7f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Face Detection in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/face-detection-in-flutter-using-firebases-ml-kit-57a7a9078c3f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Deep Learning for Natural Language Processing on Mobile Devices](https://towardsdatascience.com/deep-learning-for-natural-language-processing-on-mobile-devices-3024747a7043)
 
 ### Edge/Browser
 
