@@ -475,6 +475,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Face Detection in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/face-detection-in-flutter-using-firebases-ml-kit-57a7a9078c3f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deep Learning for Natural Language Processing on Mobile Devices](https://towardsdatascience.com/deep-learning-for-natural-language-processing-on-mobile-devices-3024747a7043)
+- [Scan Barcodes in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/scan-barcodes-in-flutter-using-firebases-ml-kit-b5b014a67ed1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
@@ -521,6 +522,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Running TensorFlow Lite Image Classification Models in Python](https://heartbeat.fritz.ai/running-tensorflow-lite-image-classification-models-in-python-92ef44b4cd47?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Running TensorFlow Lite Object Detection Models in Python](https://heartbeat.fritz.ai/running-tensorflow-lite-object-detection-models-in-python-8a73b77e13f8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Make deep learning models run fast on embedded hardware](https://www.edgeimpulse.com/blog/make-deep-learning-models-run-fast-on-embedded-hardware/)
+- [Creating “No Trump Social” with TensorFlow.js](https://heartbeat.fritz.ai/creating-no-trump-social-with-tensorflow-js-54a44d74cdb5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
