@@ -330,6 +330,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How to Get a Core ML Model to Produce Images as Output](https://cutecoder.org/programming/core-ml-image-output/)
 - [Core ML On-Device Training, with Transfer Learning from Swift for TensorFlow Models](https://heartbeat.fritz.ai/core-ml-on-device-training-with-transfer-learning-from-swift-for-tensorflow-models-1264b444e18d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Protecting Core ML Models](https://heartbeat.fritz.ai/protecting-core-ml-models-35218d93dcf7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Core ML and Vision Tutorial: On-device training on iOS](https://www.raywenderlich.com/7960296-core-ml-and-vision-tutorial-on-device-training-on-ios?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Other
 
