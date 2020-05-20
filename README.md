@@ -241,6 +241,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Computer Vision in iOS: Determine the Best Facial Expression in Live Photos](https://heartbeat.fritz.ai/computer-vision-in-ios-determine-the-best-facial-expression-in-live-photos-452a2eaf6512?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Compute Image Similarity Using Computer Vision in iOS](https://heartbeat.fritz.ai/compute-image-similarity-using-computer-vision-in-ios-75b4dcdd095f??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Introduction to XGBoost with an Implementation in an iOS Application](https://heartbeat.fritz.ai/introduction-to-xgboost-with-an-implementation-in-an-ios-application-cdfaa8f9930b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Implement Depth Estimation on iOS Using a FCRN Model](https://heartbeat.fritz.ai/implement-depth-estimation-on-ios-using-a-fcrn-model-7208c4f7c4d2?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 
 ### Natural Language Processing
