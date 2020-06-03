@@ -191,6 +191,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Incorporating machine learning into iOS apps](https://heartbeat.fritz.ai/incorporating-machine-learning-into-ios-apps-a5eb8bccd915?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a multi-class image classifier on iOS](https://heartbeat.fritz.ai/building-a-multi-class-image-classifier-on-ios-2e5df50a1655?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
+- [Building an on-device face mask detector with Fritz AI Studio](https://heartbeat.fritz.ai/building-an-on-device-face-mask-detector-with-fritz-ai-studio-874a88ae2702?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object/Face Detection
 
@@ -525,6 +526,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Running TensorFlow Lite Object Detection Models in Python](https://heartbeat.fritz.ai/running-tensorflow-lite-object-detection-models-in-python-8a73b77e13f8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Make deep learning models run fast on embedded hardware](https://www.edgeimpulse.com/blog/make-deep-learning-models-run-fast-on-embedded-hardware/)
 - [Creating “No Trump Social” with TensorFlow.js](https://heartbeat.fritz.ai/creating-no-trump-social-with-tensorflow-js-54a44d74cdb5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Deep Learning with JavaScript (Part 1)](https://heartbeat.fritz.ai/deep-learning-with-javascript-part-1-c9a83fe0f063?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Deep Learning in JavaScript (Part 2)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-2-a2823defd3d9)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
