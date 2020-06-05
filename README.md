@@ -60,6 +60,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [PyTorch Mobile: Exploring Facebook’s new mobile machine learning solution](https://heartbeat.fritz.ai/pytorch-mobile-exploring-facebooks-new-mobile-machine-learning-solution-96c99efbfd58?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [AI in the Browser](https://codeburst.io/ai-in-the-browser-939d8ab387a2)
 - [Federated Learning: An Introduction](https://heartbeat.fritz.ai/federated-learning-an-introduction-a0bedc8a584c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Popular Mobile Machine Learning Projects to Help You Start Building](https://heartbeat.fritz.ai/popular-mobile-machine-learning-projects-to-help-you-start-building-48646fb6c60a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
