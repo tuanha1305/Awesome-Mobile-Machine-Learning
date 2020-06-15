@@ -337,6 +337,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Core ML On-Device Training, with Transfer Learning from Swift for TensorFlow Models](https://heartbeat.fritz.ai/core-ml-on-device-training-with-transfer-learning-from-swift-for-tensorflow-models-1264b444e18d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Protecting Core ML Models](https://heartbeat.fritz.ai/protecting-core-ml-models-35218d93dcf7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Core ML and Vision Tutorial: On-device training on iOS](https://www.raywenderlich.com/7960296-core-ml-and-vision-tutorial-on-device-training-on-ios)
+- [How to Run and Test Core ML Models in a Swift Playground](https://heartbeat.fritz.ai/how-to-run-and-test-core-ml-models-in-swift-playgrounds-8e4b4f9cf676?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Other
 
