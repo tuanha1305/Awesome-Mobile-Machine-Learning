@@ -195,6 +195,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Building a multi-class image classifier on iOS](https://heartbeat.fritz.ai/building-a-multi-class-image-classifier-on-ios-2e5df50a1655?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
 - [Building an on-device face mask detector with Fritz AI Studio](https://heartbeat.fritz.ai/building-an-on-device-face-mask-detector-with-fritz-ai-studio-874a88ae2702?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Build a SwiftUI + Core ML Emoji Hunt Game for iOS](https://heartbeat.fritz.ai/build-a-swiftui-core-ml-emoji-hunt-game-for-ios-eb4465ec4153?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object/Face Detection
 
@@ -223,6 +224,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
 - [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Semantic and Instance Segmentation on iOS Using a Flask API — DeepLabV3+ and Mask R-CNN](https://heartbeat.fritz.ai/semantic-and-instance-segmentation-on-ios-using-a-flask-api-deeplabv3-and-mask-r-cnn-b141213de3e7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Pose Estimation
 
