@@ -537,6 +537,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Deep Learning with JavaScript (Part 1)](https://heartbeat.fritz.ai/deep-learning-with-javascript-part-1-c9a83fe0f063?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deep Learning in JavaScript (Part 2)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-2-a2823defd3d9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deep Learning in JavaScript (Part 3)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-3-2b449d63b152?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Deep Learning In JavaScript (Part 4)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-4-294c53cbe28?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
