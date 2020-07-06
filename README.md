@@ -538,6 +538,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Deep Learning in JavaScript (Part 2)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-2-a2823defd3d9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deep Learning in JavaScript (Part 3)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-3-2b449d63b152?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deep Learning In JavaScript (Part 4)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-4-294c53cbe28?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Constructing a 3D Face Mesh from Face Landmarks in Real-Time with TensorFlow.js and Plot.js](https://heartbeat.fritz.ai/constructing-a-3d-face-mesh-from-face-landmarks-in-real-time-with-tensorflow-js-and-plot-js-62b177abcf9f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
