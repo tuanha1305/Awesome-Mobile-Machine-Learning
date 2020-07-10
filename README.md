@@ -129,7 +129,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [android-malware-analysis](https://github.com/mwleeds/android-malware-analysis): This project seeks to apply machine learning algorithms to Android malware classification.
 - [awesome-tflite](https://github.com/margaretmz/awesome-tflite): A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [googlesamples / mlkit](https://github.com/googlesamples/mlkit): A collection of quickstart samples demonstrating the ML Kit APIs on Android and iOS.
-- [TengineKit](https://github.com/OAID/TengineKit): Free Real-Time Face Landmarks 212 Points For Mobile.
+- [TengineKit](https://github.com/OAID/TengineKit): Free Real-Time Face Landmarks - 212 Points For Mobile
+
 ## Browser <a name="browsercode"></a>
 
 - [tfjs-models](https://github.com/tensorflow/tfjs-models): Pretrained models for TensorFlow.js
