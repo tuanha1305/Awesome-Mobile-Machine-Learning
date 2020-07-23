@@ -391,6 +391,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Blink detection on Android using Firebase ML Kit’s Face Detection API](https://heartbeat.fritz.ai/blink-detection-on-android-using-firebase-ml-kits-face-detection-api-6d09823db535??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
 - [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
+- [Object Detection in Android Using Firebase ML Kit](https://heartbeat.fritz.ai/object-detection-in-android-using-firebase-ml-kit-c9230493a2a1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Style Transfer
 
